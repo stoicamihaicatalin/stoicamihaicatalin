@@ -1,0 +1,21 @@
+#include <iostream>
+
+int main () {
+int numar = 7;
+
+if (numar < 7)
+
+{	std::cout << "Caut un numar mai mare";
+}
+else if (numar > 7)
+
+{	std::cout << "Caut un numar mai mic";
+}
+else
+{std::cout << "Corect";
+}
+}
+
+
+
+
